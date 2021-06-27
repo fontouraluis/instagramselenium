@@ -1,1 +1,1 @@
-# instagramselenium image:https://img.shields.io/github/workflow/status/fontouraluis/instagramselenium/maven[GitHub Workflow Status]
+# instagramselenium <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/fontouraluis/instagramselenium/maven">
