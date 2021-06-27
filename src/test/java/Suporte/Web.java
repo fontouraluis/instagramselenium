@@ -18,6 +18,6 @@ public class Web {
         //WebDriver navigator = new FirefoxDriver();
         navegador.manage().window().maximize();
         navegador.get("https://www.instagram.com/");
-        sleep(4000);
+        sleep(2000);
         return navegador;
     }}
